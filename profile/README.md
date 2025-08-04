@@ -1,4 +1,4 @@
-# Universität zu Köln · WIM · GitHub Organization
+# University of Cologne · WIM · GitHub Organization
 
 Welcome to the **official GitHub organization** of the *Department of Information Systems and Information Management* (WIM) at the **University of Cologne**.
 
