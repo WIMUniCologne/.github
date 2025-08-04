@@ -6,16 +6,16 @@ Welcome to the **official GitHub organization** of the *Department of Informatio
 
 ## 🔍 About Us
 
-**WIM** is part of the *Cologne Institute for Information Systems (CIIS)* within the Faculty of Management, Economics, and Social Sciences. Under the leadership of **Prof. Dr. Detlef Schoder**, we conduct internationally leading research and teaching in the field of Business Informatics  [oai_citation:0‡wim.uni-koeln.de](https://wim.uni-koeln.de/en/) [oai_citation:1‡IDW Online](https://idw-online.de/en/news830737).
+**WIM** is part of the *Cologne Institute for Information Systems (CIIS)* within the Faculty of Management, Economics, and Social Sciences. Under the leadership of **Prof. Dr. Detlef Schoder**, we conduct internationally leading research and teaching in the field of Business Informatics.
 
-- ✅ **AIS Research Ranking 2023/24** – WIM (CIIS) is ranked **#1 in Germany**, **#4 in Europe**, and **#38 globally** among AIS-ranked institutions  [oai_citation:2‡IDW Online](https://idw-online.de/en/news830737).
+- ✅ **AIS Research Ranking 2023/24** – WIM (CIIS) is ranked **#1 in Germany**, **#4 in Europe**, and **#38 globally** among AIS-ranked institutions  [[[Ranking]]](https://idw-online.de/en/news830737).
 - 🌐 Our core research areas include:
   - Generative AI & Business Analytics  
   - Semantic Document Analysis (e.g. extreme classification & knowledge worker support)  
   - AI-based Decision Support (media production, logistics, trading in finance/crypto)  
   - Digital Transformation, Innovation & Sustainable Society  
-  - Machine Learning in healthcare (e.g., seizure detection) and protein‑protein interaction analysis  [oai_citation:3‡IDW Online](https://idw-online.de/en/news830737)
-- 🧪 We apply a wide range of methods (LLMs, deep learning, Transformers, genetic algorithms) and collaborate closely with industry  [oai_citation:4‡wim.uni-koeln.de](https://wim.uni-koeln.de/en/) [oai_citation:5‡wim.uni-koeln.de](https://wim.uni-koeln.de/en/research).
+  - Machine Learning in healthcare (e.g., seizure detection) and protein‑protein interaction analysis
+- 🧪 We apply a wide range of methods (LLMs, deep learning, Transformers, genetic algorithms) and collaborate closely with industry  [[[Our Research]]](https://wim.uni-koeln.de/en/research).
 
 ---
 
@@ -44,10 +44,10 @@ The organization supports a variety of teaching formats:
 ## 🧑‍💼 Our People
 
 - **Chair / Seminar Leader**  
-  Prof. Dr. Detlef Schoder — head of WIM / CIIS  [oai_citation:7‡IDW Online](https://wim.uni-koeln.de/en/the-department/seminar-leader)
+  Prof. Dr. Detlef Schoder — head of WIM / CIIS  [[Detlef Schoder]](https://wim.uni-koeln.de/en/the-department/seminar-leader)
 
 - **Post‐docs**  
-  Dr. Philipp Mazur, Dr. Stefan Hirschmeier, Dr. Johannes Melsbach  [oai_citation:8‡wim.uni-koeln.de](https://wim.uni-koeln.de/en/the-department/post-docs)
+  Dr. Philipp Mazur, Dr. Stefan Hirschmeier, Dr. Johannes Melsbach  [[[Post-Docs]]](https://wim.uni-koeln.de/en/the-department/post-docs)
 
 - **Doctoral researchers & student staff**  
 Tom Celig, Frederic Haase, Lazar Milosevic, Tim Ockenga, Tim Rahlmeier, Simon Wolf, Bastian Wolff, and numerous student assistants  
