@@ -8,7 +8,7 @@ Welcome to the **official GitHub organization** of the *Department of Informatio
 
 **WIM** is part of the *Cologne Institute for Information Systems (CIIS)* within the Faculty of Management, Economics, and Social Sciences. Under the leadership of **Prof. Dr. Detlef Schoder**, we conduct internationally leading research and teaching in the field of Business Informatics.
 
-- ✅ **AIS Research Ranking 2023/24** – WIM (CIIS) is ranked **#1 in Germany**, **#4 in Europe**, and **#38 globally** among AIS-ranked institutions  [[Ranking]](https://idw-online.de/en/news830737).
+- ✅ **AIS Research Ranking 2024/25** – WIM (CIIS) is ranked **#1 in Germany**, **#4 in Europe**, and **#46 globally** among AIS-ranked institutions  [[Ranking]](https://wiso.uni-koeln.de/en/news/news-faculty/wiso-once-again-leading-in-the-information-systems-ranking).
 - 🌐 Our core research areas include:
   - Generative AI & Business Analytics  
   - Semantic Document Analysis (e.g. extreme classification & knowledge worker support)  
