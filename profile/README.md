@@ -32,16 +32,6 @@ Repositories include standardized templates for issue discussions, code style gu
 
 ---
 
-## 🤝 Contributing
-
-Interested in collaborating, submitting code, or proposing a project?
-
-1. Fork the relevant repository and create a feature branch (`feature/my-feature`).
-2. Follow our **[Coding Guidelines](CONTRIBUTING.md)** and include tests/documentation where applicable.
-3. Submit a **Pull Request (PR)**; it will be reviewed by WIM members.
-
----
-
 ## 📚 Teaching & Student Engagement
 
 The organization supports a variety of teaching formats:
@@ -60,7 +50,8 @@ The organization supports a variety of teaching formats:
   Dr. Philipp Mazur, Dr. Stefan Hirschmeier, Dr. Johannes Melsbach  [oai_citation:8‡wim.uni-koeln.de](https://wim.uni-koeln.de/en/the-department/post-docs)
 
 - **Doctoral researchers & student staff**  
-   Tom Celig, Frederic Haase, Lazar Milosevic, Tim Ockenga, Tim Rahlmeier, Simon Wolf, Bastian Wolff, and numerous student assistants  [oai_citation:10‡wim.uni-koeln.de](https://wim.uni-koeln.de/en/the-department/doctoral-candidates) [oai_citation:11‡wim.uni-koeln.de](https://wim.uni-koeln.de/en/the-department/student-assistants)
+Tom Celig, Frederic Haase, Lazar Milosevic, Tim Ockenga, Tim Rahlmeier, Simon Wolf, Bastian Wolff, and numerous student assistants  
+[[Doctoral Candidates]](https://wim.uni-koeln.de/en/the-department/doctoral-candidates) [[Student Assistants]](https://wim.uni-koeln.de/en/the-department/student-assistants)
 
 ---
 
